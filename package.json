@@ -1,5 +1,5 @@
 {
-  "name": "cloud-base",
+  "name": "@sendanor/cloud-base",
   "version": "0.1.0",
   "description": "Robust cloud programming foundation",
   "main": "index.js",
