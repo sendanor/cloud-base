@@ -1,0 +1,37 @@
+{
+  "name": "cloud-base",
+  "version": "0.1.0",
+  "description": "Robust cloud programming foundation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendanor/cloud-base.git"
+  },
+  "author": "Jaakko-Heikki Heusala <jheusala@iki.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sendanor/cloud-base/issues"
+  },
+  "homepage": "https://github.com/sendanor/cloud-base#readme",
+  "dependencies": {
+    "@sendanor/cloud-common": "^1.0.0",
+    "cloud-backend": "^1.0.11",
+    "cloud-client": "^1.0.0",
+    "nor-array": "^1.0.0",
+    "nor-debug": "^1.0.0",
+    "nor-errors": "^1.0.0",
+    "nor-extend": "^1.1.0",
+    "nor-fs": "^1.0.0",
+    "nor-function": "^1.0.0",
+    "nor-generic-parser": "^1.0.0",
+    "nor-is": "^1.0.0",
+    "nor-mailer": "^0.1.20",
+    "nor-nopg": "^1.4.4",
+    "nor-pg": "^1.2.0",
+    "nor-prompt-parser": "^1.0.0",
+    "nor-ref": "^1.0.0"
+  }
+}
